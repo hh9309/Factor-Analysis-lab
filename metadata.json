@@ -1,0 +1,6 @@
+{
+  "name": "因子分析实验室 (Factor Analysis Lab)",
+  "description": "专业级因子分析交互实验室：涵盖矩阵代数与协方差分解、KMO与Bartlett检验、碎石图因子提取、Varimax/Promax旋转、六大实战案例、Python/R双代码引擎及AI智能随诊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
